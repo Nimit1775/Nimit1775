@@ -80,6 +80,12 @@
 </p>
       
 <br/> 
+<p align="center">
+  <a href="https://github.com/Nimit1775">
+    <img src="![Nimit1775's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="/> Top languages
+  </a>
+</p>
+
 
 
 [![Nimit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimit1775&bg_color=000000&color=9e4c98&line=4e3caa&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
