@@ -38,9 +38,7 @@
 </p>
 
 <p align="center">
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
+ 
  <a href="https://www.linkedin.com/in/nimit-sodhani-10487b1a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
@@ -101,7 +99,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="/> github stats 
   </a>
 </p>
+<br> 
 
 
-
-[![Nimit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimit1775&bg_color=6d3885&color=9e4c98&line=2b262b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nimit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimit1775&bg_color=000000&color=9e4c98&line=4e3caa&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
