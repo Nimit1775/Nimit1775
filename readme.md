@@ -41,7 +41,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Enjoy  programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features and technologies <br/><br/>
  📧 &emsp; Reach me anytime: nimitsodhani1@gmail.com<br/><br/>
 
@@ -82,7 +82,7 @@
 <br/> 
 <p align="center">
   <a href="https://github.com/Nimit1775">
-    <img src="![Nimit1775's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="/> Top languages
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="/> Top languages
   </a>
 </p>
 
