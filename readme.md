@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="![Nimit1775's Stats](https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="/> github stats 
   </a>
 </p>
 
