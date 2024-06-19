@@ -97,7 +97,4 @@
 </p>
 
 
-
-<br/>
-<br/>
 [![Nimit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimit1775&bg_color=000000&color=9e4c98&line=4e3caa&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
