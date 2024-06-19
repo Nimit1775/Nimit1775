@@ -1,23 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -99,7 +79,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="/> github stats 
   </a>
 </p>
-<br> 
+      
+<br/> 
 
 
 [![Nimit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimit1775&bg_color=000000&color=9e4c98&line=4e3caa&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
