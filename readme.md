@@ -80,6 +80,16 @@
 </p>
       
 <br/> 
+
+<p align="center">
+  <a href="https://github.com/Nimit1775">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimit1775&theme=vue-dark&hide_border=true" alt="/> github stats 
+  </a>
+</p>
+      
+<br/> 
+
+
 <p align="center">
   <a href="https://github.com/Nimit1775">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="/> Top languages
