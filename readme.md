@@ -9,9 +9,9 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=siddharthisrani&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiddharthisrani&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/siddharthisrani-grey?style=flat&logo=instagram)](https://www.instagram.com/siddharth.israni?igsh=MWx1NXlsbG83cXB6aA==) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=Nimit1775&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNimit1775&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/siddharthisrani-grey?style=flat&logo=instagram)](https://www.instagram.com/nimitsodhani/) <br>
 </div>
 
 <hr></hr>
@@ -50,7 +50,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently doing **Competitive programming and Fullstack dev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **New technologies**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **web developing, Movies.**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Siddharth.israni](https://www.instagram.com/siddharth.israni?igsh=MWx1NXlsbG83cXB6aA==)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Nimit Sodhani](https://www.instagram.com/nimitsodhani/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first ever commit on GitHub was made by the co-founder Tom Preston-Werner with the message 'Initial commit'!".<br>
 
 <div align="center" >
