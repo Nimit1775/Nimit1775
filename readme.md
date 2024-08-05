@@ -56,7 +56,7 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/Nimit1775">
 
-<a href="https://github.com/Nimit1775"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=default&show_icons=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&layout=compact" /></a>
+<a href="https://github.com/Nimit1775"><img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&layout=compact" /></a>
 
 </a>
 
