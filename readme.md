@@ -52,7 +52,12 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **web developing, Movies.**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Nimit Sodhani](https://www.instagram.com/nimitsodhani/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first ever commit on GitHub was made by the co-founder Tom Preston-Werner with the message 'Initial commit'!".<br>
+<a  href="https://github.com/Nimit1775">
 
+<a href="https://github.com/Nimit1775"><img height="147px" src="![Nimit1775's Stats](https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=buefy&show_icons=true&hide_border=true&count_private=true)v" /> </a>
+
+
+</a>
 <div align="center" >
 <a  href="https://github.com/Nimit1775">
 
@@ -60,12 +65,7 @@ class About extends Me {
 
 
 </a>
-<a  href="https://github.com/Nimit1775">
 
-<a href="https://github.com/Nimit1775"><img height="147px" src="![Nimit1775's Stats](https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=buefy&show_icons=true&hide_border=true&count_private=true)v" /> </a>
-
-
-</a>
 
   
 <hr></hr>
