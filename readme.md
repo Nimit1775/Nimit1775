@@ -1,12 +1,10 @@
-<div align="center" width="50">
-
-<h1>Hiii I am Nimit Sodhani</h1> <br>
 - 👋 Hi, I’m Nimit Sodhani 
 - 👀 I’m interested in Learning interesting tech 
 - 🌱 I’m currently learning NEXT-JS
 - 💞️ I’m looking to collaborate on FULL STACK PROJECTS.
 - 📫 A newbie competitive programmer but i'll level-up !.
 
+<div align="center" width="50">
 
 </a>
 <div align="center" >
