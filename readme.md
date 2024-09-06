@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning interesting tech 
 - 🌱 I’m currently learning NEXT-JS
 - 💞️ I’m looking to collaborate on FULL STACK PROJECTS.
-- 📫 A newbie competitive programmer but i'll level-up !.
+- 📫 A very passionate competitive programmer  !.
 
   <br><br>
 
