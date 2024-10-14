@@ -13,7 +13,7 @@
 <a  href="https://github.com/Nimit1775">
 
 <br><br> 
-<a href="https://github.com/Nimit1775"><img height="147px" src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=default&show_icons=true&hide_border=true&count_private=truet" /> </a>
+<a href="https://github.com/Nimit1775"><img height="152px" src="https://github-readme-stats.vercel.app/api?username=Nimit1775&theme=default&show_icons=true&hide_border=true&count_private=truet" /> </a>
 
 <a href="https://github.com/Nimit1775"><img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimit1775&theme=default&show_icons=true&hide_border=true&layout=compact" /> </a>
 <br><br>
