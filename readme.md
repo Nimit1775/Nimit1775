@@ -19,7 +19,7 @@
 <a href="https://github.com/Nimit1775"><img height="147px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimit1775&theme=default&hide_border=true" /> </a>
 </a>
 
-[![Nimit1775's GitHub | Languages Over Time](https://stats.quira.sh/Nimit1775/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimit1775)
+
 
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
